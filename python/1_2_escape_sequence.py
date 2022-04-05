@@ -14,3 +14,5 @@ print("lineA\tNeeraj")
 print("this is \ backslash")
 #backslash in the end
 print("this is backslash\\")
+# for double backslash
+print(" this is  double back slash \\\\")
