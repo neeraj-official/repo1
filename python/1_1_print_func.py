@@ -1,4 +1,5 @@
 #collection of character in single or double quote
+#we can't use single  in single or double in double quote;
 
 print("Hello world")
 print('hello world')
